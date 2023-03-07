@@ -32,10 +32,10 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 @echo off
-title CCleaner Lite (v1.3) - Cleaning
+title CCleaner Lite (v1.4) - Cleaning
 
 :START
-@echo CCleaner Lite (v1.3) - Create by: MichalCZ
+@echo CCleaner Lite (v1.4) - Create by: MichalCZ
 @echo.
 @echo.
 set /p sure="Are you want to clean your computer? (yes/no): "
@@ -86,7 +86,7 @@ goto END
 
 :END
 cls
-title CCleaner Lite (v1.3) - Cleaning completed!
+title CCleaner Lite (v1.4) - Cleaning completed!
 set /p end="Cleaning completed! Press "C" to close this program, "W" to run Clean Disk Wizard or "D" to run Disk Defragmentation. "
 if %end% == C goto NO
 if %end% == c goto NO
