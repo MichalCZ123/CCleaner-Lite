@@ -1,0 +1,7 @@
+DŮLEŽITÉ/IMPORTANT:
+
+CZ:
+Tyto BETA verze nedoporučuji stahovat pro normální používání kvůli tomu že mohou obsahovat chyby a tím pádem: 1. Může se stát že poškodí systém smazáním jiného souboru než by měl. 2. Může být nestabilní. 3. Může být nefunkční. Nenesu odpovědnost za váš počítač, varoval jsem vás!
+
+EN:
+I do not recommend downloading these BETA versions for normal use because they may contain bugs and therefore: 1. They may damage the system by deleting a different file than they should. 2. May be unstable. 3. It may be broken. I am not responsible for your computer, I warned you!

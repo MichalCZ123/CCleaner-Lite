@@ -1,8 +1,8 @@
 @echo off
-title CCleaner Lite (v1.4) - Cleaning
+title CCleaner Lite (BETA) - Cleaning
 
 :START
-@echo CCleaner Lite (v1.4) - Create by: MichalCZ
+@echo CCleaner Lite (BETA) - Create by: MichalCZ
 @echo.
 @echo.
 set /p sure="Are you want to clean your computer? (yes/no): "
@@ -20,14 +20,11 @@ cd \
 cd %SYSTEMDRIVE%\Windows\Temp
 attrib * -s
 del * /f /q > nul
-del * /s /q > nul
 rd * /s /q > nul
 cd \
 %SYSTEMDRIVE%
 cd %tmp%
-attrib * -s
 del * /f /q > nul
-del * /s /q > nul
 rd * /s /q > nul
 goto DOWNLOADS
 
@@ -53,7 +50,7 @@ goto END
 
 :END
 cls
-title CCleaner Lite (v1.4) - Cleaning completed!
+title CCleaner Lite (BETA) - Cleaning completed!
 set /p end="Cleaning completed! Press "C" to close this program, "W" to run Clean Disk Wizard or "D" to run Disk Defragmentation. "
 if %end% == C goto NO
 if %end% == c goto NO
