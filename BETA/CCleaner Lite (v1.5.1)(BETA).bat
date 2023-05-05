@@ -1,9 +1,26 @@
 @echo off
-title CCleaner Lite (v1.5) - Cleaning
+
+:INTRO
+title CCleaner Lite (BETA) - Menu
+cls
+@echo Type: "C" to start cleaning, "O" to open option menu (in development) or "E" to close CCleaner Lite.
+set /p intro="Your choice: "
+if %intro% == C goto START
+if %intro% == c goto START
+if %intro% == O goto OPT
+if %intro% == o goto OPT
+if %intro% == E exit
+if %intro% == e exit
+
+:OPT
+cls
+@echo In development, maybe later...
+pause
+goto INTRO
 
 :START
 cls
-@echo CCleaner Lite (v1.5) - Create by: MichalCZ
+@echo CCleaner Lite (BETA) - Create by: MichalCZ
 @echo.
 @echo.
 set /p sure="Do you want to clean your computer? (yes/no): "
@@ -56,7 +73,7 @@ goto END
 
 :END
 cls
-title CCleaner Lite (v1.5) - Cleaning completed!
+title CCleaner Lite (BETA) - Cleaning completed!
 set /p end="Cleaning completed! Type "C" to close this program, "W" to run Clean Disk Wizard, "D" to run Disk Defragmentation or "B" to show Bonus Options. "
 if %end% == C goto NO
 if %end% == c goto NO
@@ -90,7 +107,7 @@ exit
 
 :BON
 cls
-title CCleaner Lite (v1.5) - Bonus Options
+title CCleaner Lite (BETA) - Bonus Options
 set /p bonus="Bonus Options: Type "S" to open Backup Center, "R" Resource Monitor, "T" to run Task Manager, "A" to run Antivirus, "P" to run Disk Partition Tool, "I" to run Installer-Making Tool, "X" to run Auto Fixing Corrupted/Damaged System Files or "C" to close CCleaner Lite. "
 if %bonus% == S start sdclt.exe
 if %bonus% == s start sdclt.exe
