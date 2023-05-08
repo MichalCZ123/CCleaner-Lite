@@ -1,0 +1,9 @@
+DŮLEŽITÉ/IMPORTANT:
+
+CZ:
+Tento kód je upravený tak, aby fungoval lépe na starších systémech. Nejlépe by měl fungovat na Windows XPčkách. Ale opět
+jako u BETA verzí nedoporučuji používat tyto verze primárně protože opět nemusí fungovat správně. Toto by měla být ta poslední možnost kterou zvolíte.
+
+EN:
+This code is modified to work better on older systems. It should work best on Windows XP. But again
+as with the BETA versions I do not recommend using these versions primarily because again they may not work properly. This should be the last one option you choose.
