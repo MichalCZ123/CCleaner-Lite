@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFA5HSRa+GGS5E7gZ5vzo082OtmUIVt4cW4Pe27qLMq0/41HhSZ8u2UZ5u8cJDRVdbFKHZxsx52dBuQQ=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZk40
-::ZQ05rAF9IBncCkqN+0xwdVsFAlHi
-::ZQ05rAF9IAHYFVzEqQITCxdRTQqHLiuWD6EZiA==
-::eg0/rx1wNQPfEVWB+kM9LVsJDCehMG67CLAOqMTy++/H6ltMGrd2No3aztQ=
-::fBEirQZwNQPfEVWB+kM9LVsJDCehMG67CLAOqMTy++/H6ltMGrd2OMKb+aaLIfQWqkf9L9YA33lSmccvNns=
-::cRolqwZ3JBvQF1fEqQITCxdRTQqHLiuWD6EZiA==
-::dhA7uBVwLU+EWHSN90oxJDhuLA==
-::YQ03rBFzNR3SWATEuQ99SA==
-::dhAmsQZ3MwfNWATEuQ99SA==
-::ZQ0/vhVqMQ3MEVWAtB9wZVYZLA==
-::Zg8zqx1/OA3MEVWAtB9wZVYZLA==
-::dhA7pRFwIByZRRmn1041KRVRXkSuNX+/Zg==
-::Zh4grVQjdCyDJGyX8VAjFA5HSRa+GGS5E7gZ5vzo082OtmUIVt4cW4Pe27qLMq0/41HhSZM100Z5u8cJDRVdbFKHZxsx6SZU5yrQfomZqwqB
-::YB416Ek+ZG8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 title CCleaner Lite (v1.5) - Cleaning
 
